@@ -1,0 +1,5 @@
+{
+  "name": "IQ Visual Quiz",
+  "description": "A dynamic IQ test game that generates visual puzzles using AI. Each question is accompanied by a unique image and multiple-choice answers to challenge your cognitive skills.",
+  "requestFramePermissions": []
+}
